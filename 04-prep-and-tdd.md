@@ -15,3 +15,5 @@ Nodes can easily be removed or added from a linked list without reorganizing the
 Search operations are slow in linked lists. Unlike arrays, random access of data elements is not allowed. Nodes are accessed sequentially starting from the first node.
 It uses more memory than arrays because of the storage of the pointers.
 
+#### example 
+![alt text](linkedlist.png)
